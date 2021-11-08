@@ -1,0 +1,12 @@
+@import 'colors.scss';
+@import 'components/left-panel.scss';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: $backgrond-color;
+    color: $text-color;
+}
